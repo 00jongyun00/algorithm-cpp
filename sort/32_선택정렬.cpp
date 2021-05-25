@@ -4,7 +4,7 @@
 
 using namespace std;
 int main() {
-    freopen("32.txt", "rt", stdin);
+    freopen("./32_선택정렬.txt", "rt", stdin);
     int a[100];
     int n, idx, i, j, temp;
     scanf("%d", &n);

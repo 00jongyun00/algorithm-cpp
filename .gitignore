@@ -34,3 +34,5 @@
 input.txt
 강의+자료/
 .DS_Store
+*.dSYM
+
